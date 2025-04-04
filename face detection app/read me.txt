@@ -1,0 +1,5 @@
+📌 Attribution
+This project is built using DeepFace, OpenCV, and PyQt6. I do not fully own the underlying technologies and models used in this project. Full credit goes to the respective developers and open-source contributors of these libraries.
+
+📜 License
+This project is open-source but respects the licenses of the libraries used.
